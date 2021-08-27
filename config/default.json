@@ -1,0 +1,4 @@
+{
+    "mongoURI":"mongodb+srv://admin:admin@123@cluster0.7vawh.mongodb.net/iemsDB?retryWrites=true&w=majority",
+    "loginToken":"imestoken"
+}
