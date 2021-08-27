@@ -2,8 +2,9 @@ Internal Exam Management System
 The Internal Exam Management System helps exam coordinator to manage and create necessary reports to conduct internal examinations.
 
 Steps to clone
+
 Clone the repositoy.
-git clone https://github.com/shyamal28shah/iems.git
+git clone https://github.com/DodiTank16/iems.git
 Install NodeJs.
 https://nodejs.org/en/download/
 Verify installation.
