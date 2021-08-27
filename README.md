@@ -1,19 +1,19 @@
-Internal Exam Management System
-The Internal Exam Management System helps exam coordinator to manage and create necessary reports to conduct internal examinations.
+# Internal Exam Management System
+###### The Internal Exam Management System helps exam coordinator to manage and create necessary reports to conduct internal examinations.
 
-Steps to clone
+## Steps to clone
 
-Clone the repositoy.
+1. Clone the repositoy.
 git clone https://github.com/DodiTank16/iems.git
-Install NodeJs.
+2. Install NodeJs.
 https://nodejs.org/en/download/
-Verify installation.
+3. Verify installation.
 node --version
-Install dependencies of server side.
+4. Install dependencies of server side.
 npm install
-Install dependencies of client side.
+5. Install dependencies of client side.
 cd client
 npm install
-Start development server.
+6. Start development server.
 cd ..
 npm run dev
