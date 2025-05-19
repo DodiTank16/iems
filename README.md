@@ -4,16 +4,28 @@
 ## Steps to clone
 
 1. Clone the repositoy.
+```
 git clone https://github.com/DodiTank16/iems.git
+```
 2. Install NodeJs.
+```
 https://nodejs.org/en/download/
+```
 3. Verify installation.
+```
 node --version
-4. Install dependencies of server side.
+```
+5. Install dependencies of server side.
+```
 npm install
-5. Install dependencies of client side.
+```
+6. Install dependencies of client side.
+```
 cd client
 npm install
-6. Start development server.
+```
+7. Start development server.
+```
 cd ..
 npm run dev
+```
