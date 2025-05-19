@@ -1,0 +1,67 @@
+{
+    "degreeId": "6036270ef4538e4ef8fae765",
+    "classes": [
+        {
+            "code": "715B",
+            "normalCapacity": 30,
+            "examCapacity": 15
+        },
+        {
+            "code": "710B",
+            "normalCapacity": 30,
+            "examCapacity": 15
+        },
+        {
+            "code": "711B",
+            "normalCapacity": 30,
+            "examCapacity": 15
+        },
+        {
+            "code": "712B",
+            "normalCapacity": 30,
+            "examCapacity": 15
+        },
+        {
+            "code": "713B",
+            "normalCapacity": 30,
+            "examCapacity": 15
+        },
+        {
+            "code": "714B",
+            "normalCapacity": 30,
+            "examCapacity": 15
+        },
+        {
+            "code": "716B",
+            "normalCapacity": 30,
+            "examCapacity": 15
+        },
+        {
+            "code": "717B",
+            "normalCapacity": 30,
+            "examCapacity": 15
+        },
+        {
+            "code": "718B",
+            "normalCapacity": 30,
+            "examCapacity": 15
+        }
+    ],
+    "labs": [
+        {
+            "code": "516A",
+            "normalCapacity": 20,
+            "examCapacity": 10
+        },
+        {
+            "code": "517A",
+            "normalCapacity": 20,
+            "examCapacity": 10
+        },
+        {
+            "code": "518A",
+            "normalCapacity": 20,
+            "examCapacity": 10
+        }
+    ]
+}

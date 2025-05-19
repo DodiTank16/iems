@@ -1,17 +1,17 @@
 {
   "name": "iems",
   "version": "1.0.0",
-  "description": "The Internal Exam Management System ",
+  "description": "The Internal Exam Management System",
   "main": "server.js",
   "scripts": {
     "server": "nodemon server",
     "start": "node server",
-    "client" : "npm start --prefix client",
-    "dev": "concurrently \"npm run client\" \"npm run server\""
+    "client": "npm start --prefix client",
+    "dev": "concurrently \"npm run client\" \"npm run server\" "
   },
   "repository": {
     "type": "git",
-    "url": "git+ssh://git@github.com/shyamal28shah/iems.git"
+    "url": "git+ssh://git@github.com/DodiTank16/iems.git"
   },
   "keywords": [
     "MERN",
@@ -20,24 +20,27 @@
     "React",
     "nodejs"
   ],
-  "author": "Shyamal Shah",
+  "author": "Dodi Tank",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/shyamal28shah/iems/issues"
+    "url": "https://github.com/DodiTank16/iems/issues"
   },
-  "homepage": "https://github.com/shyamal28shah/iems#readme",
+  "homepage": "https://github.com/DodiTank16/iems#readme",
   "dependencies": {
     "bcryptjs": "^2.4.3",
     "config": "^3.3.3",
+    "dotenv": "^8.2.0",
+    "exceljs": "^4.2.1",
     "express": "^4.17.1",
     "express-validator": "^6.9.2",
     "jsonwebtoken": "^8.5.1",
-    "mongoose": "^5.11.15",
-    "nodemailer": "^6.4.17",
+    "mongoose": "^5.11.17",
+    "nodemailer": "^6.5.0",
     "request": "^2.88.2"
   },
   "devDependencies": {
-    "concurrently": "^5.3.0",
+    "concurrently": "^6.0.0",
+    "lodash": "^4.17.21",
     "nodemon": "^2.0.7"
   }
 }
